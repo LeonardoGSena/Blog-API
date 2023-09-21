@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "7Toue0iXVu6yL2q3vd2Y8hB547yj8a6j0mi/85wnXMQ=",
+  "Source": "Blog",
+  "BasePath": "_content/Blog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blog\\wwwroot",
+      "Source": "Blog",
+      "ContentRoot": "C:\\balta\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
